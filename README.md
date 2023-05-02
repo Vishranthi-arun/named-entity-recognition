@@ -9,9 +9,6 @@ we propose a deep neural network (NN) architecture, namely the bidirectional Lon
 
 ![197328754-b8dde19c-ac9e-4037-b154-907074372a7c](https://user-images.githubusercontent.com/93427278/235590560-1cdbd843-c012-426d-bd5e-4c7188ff18ba.png)
 
-## Neural Network Model
-
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
